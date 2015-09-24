@@ -1,5 +1,7 @@
 package main;
 
+
+//hej Alrik
 public class Bird extends Animal implements Talking{
 
 	private int Altitude;
